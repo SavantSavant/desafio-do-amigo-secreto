@@ -32,6 +32,9 @@ Sortear Amigo
 Para acessar o projeto, basta abrir o arquivo HTML em um navegador.
 
 ## Tecnologias utilizadas
-- HTML
-- CSS
-- JavaScript
+  ![Static Badge](https://img.shields.io/badge/HTML5-black?style=plastic&logo=html5&logoColor=%23E34F26&logoSize=big&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-black?style=plastic&logo=CSS3&logoColor=%231572B6&logoSize=big&labelColor=black) ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=JavaScript&logoColor=%23F7DF1E&logoSize=big&labelColor=black) 
+
+
+<p align="center">
+<img loading="lazy" src="https://img.shields.io/badge/STATUS-_FINALIZADO-blue"/>
+</p>
