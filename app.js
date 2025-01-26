@@ -27,11 +27,17 @@ function atualizarLista() {
       lista.appendChild(li);
     });
   }
-
-
-// Saída esperada: ["João"] 
-//O código acima é uma simulação de um sistema de amizades. Onde é possível adicionar e remover amigos. O código está funcionando, porém, o código está com um problema. Você consegue identificar qual é o problema? E como você resolveria este problema?
-
+//Função para sortear um amigo da lista
+  function sortearAmigo() {
+    if (amigos.length === 0) {
+      alert("A lista está vazia. Adicione amigos antes de sortear.");
+      return;
+    }
+    //  Nome aleatório de 'amigos' 
+    //Math.random gera um número aleatório entre 0 e 1, e Math.floor arredonda para baixo.
+    let sorteado = amigos[Math.floor(Math.random() * amigos.length)];
+    document.getElementById("resultado").innerHTML = "Amigo secreto: " + sorteado;
+  }
 
 
 
