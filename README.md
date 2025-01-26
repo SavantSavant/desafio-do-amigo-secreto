@@ -29,7 +29,14 @@ Um nome será selecionado aleatoriamente e exibido na tela.
 Sortear Amigo
 
 ## Acesso ao Projeto
-Para acessar o projeto, basta abrir o arquivo HTML em um navegador.
+Abra o arquivo index.html no seu navegador preferido.
+Adicione nomes de amigos e clique em "Adicionar".
+Clique em "Sortear Amigo" para selecionar um amigo secreto aleatoriamente.
+Possíveis Problemas e Soluções
+Campo de texto vazio: Se o campo de texto estiver vazio ao tentar adicionar um nome, um alerta será exibido solicitando um nome válido.
+Lista vazia ao sortear: Se a lista estiver vazia ao tentar sortear um amigo, um alerta será exibido solicitando a adição de amigos antes do sorteio.
+Contribuição
+Sinta-se à vontade para contribuir com melhorias ou novas funcionalidades. Faça um fork do repositório, crie uma branch e envie um pull request.
 
 ## Tecnologias utilizadas
   ![Static Badge](https://img.shields.io/badge/HTML5-black?style=plastic&logo=html5&logoColor=%23E34F26&logoSize=big&labelColor=black) ![Static Badge](https://img.shields.io/badge/CSS-black?style=plastic&logo=CSS3&logoColor=%231572B6&logoSize=big&labelColor=black) ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=JavaScript&logoColor=%23F7DF1E&logoSize=big&labelColor=black) 
