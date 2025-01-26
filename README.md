@@ -5,9 +5,6 @@
 ## Descrição breve do Projeto
 Este projeto é um simples jogo de Amigo Secreto onde os usuários podem adicionar nomes de amigos, visualizar a lista de amigos e sortear um amigo secreto aleatoriamente.
 
-## Status do Projeto
-Em desenvolvimento
-
 ## Funcionalidades
 Os usuários podem adicionar nomes de amigos através de um campo de texto e um botão "Adicionar".
 
